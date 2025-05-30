@@ -40,7 +40,8 @@ Ele permite que o usuário converta valores de moedas estrangeiras como **Dólar
 
 ## 📷 Prévia do Projeto
 
-![Preview](caminho/da/imagem.png)  
+![image](https://github.com/user-attachments/assets/cd5d752d-d1b4-4840-9e9f-2957f9a1f9ed)
+
 
 ## 📦 Como Usar
 
