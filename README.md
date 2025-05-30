@@ -1,4 +1,4 @@
-# 💸 Conversor de Moedas para Reais (BRL)
+# Conversor de Moedas para Reais (BRL)
 
 Este projeto é um **Conversor de Moedas** simples, desenvolvido em **JavaScript puro** como parte do curso **Full Stack da RocketSeat**.  
 Ele permite que o usuário converta valores de moedas estrangeiras como **Dólar (USD)**, **Euro (EUR)** e **Libra (GBP)** para **Real Brasileiro (BRL)** utilizando taxas de câmbio fixas.
@@ -13,7 +13,7 @@ Ele permite que o usuário converta valores de moedas estrangeiras como **Dólar
 
 ---
 
-## 📚 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Manipulação do DOM com `document.querySelector` e `getElementById`
 - Eventos de formulário (`onsubmit`, `addEventListener`)
